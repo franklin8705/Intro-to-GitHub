@@ -1,13 +1,6 @@
----
-maintainer: randomsort
----
-# Git Katas
+# Git Practice
 
 ## Quick Start
-
-### In the Cloud
-
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/praqma-training/git-katas.git)
 
 ### On Your Local Machine
 
@@ -18,19 +11,12 @@ maintainer: randomsort
 - Run the `setup.sh` script
 - Consult the README.md in that folder to get a description of the exercise
 
-## Purpose of Git Katas
+## Description
 
-This repository is a collection of Git exercises.
-The concept is stolen without shame from [Schauderhaft.de](http://blog.schauderhaft.de/gitkata/).
-Unfortunately, they have not maintained the system - and we need more good Git exercises.
+This folder is a collection of Git exercises.
+The concept is stolen without shame from [Git Katas](https://github.com/praqma-training/git-katas).
 
-The exercises are designed for use when we are teaching Git courses. You should be able to use them as self-contained exercises that will allow you to keep your Git skills sharp.
-
-Exercises starting with _basic_ are entry-level - other exercises vary greatly in difficulty.
-
-To get an overview of the exercises in here look in [Overview.md](Overview.md).
-
-Feel free to use these exercises, that's why they're public!
+To get a complete list of the exercises, look in [Overview.md](Overview.md).
 
 ## Suggested Learning Path
 
@@ -38,32 +24,22 @@ If you are coming to this repository for some basic Git knowledge, we recommend 
 This is the order that Jan Krag at Praqma teaches Git and might change over time. There are more exercises than this, but these should take you through
 everything you need to be able to use Git effectively in your day to day life. 
 
-- [Basic Commits](./basic-commits/README.md)
-- [Basic Staging](./basic-staging/README.md)
-- [Investigation](./investigation/README.md)
-- [Basic Branching](./basic-branching/README.md)
-- [Fast Forward Merge](./ff-merge/README.md)
-- [3 way Merge](./3-way-merge/README.md)
-- [Merge Mergesort](./merge-mergesort/README.md)
-- [Rebase Branch](./rebase-branch/README.md)
-- [Basic Revert](./basic-revert/README.md)
-- [Reset](./reset/README.md)
-- [Basic Cleaning](./basic-cleaning/README.md)
-- [Amend](./amend/README.md)
-- [Reorder the History](./reorder-the-history/README.md)
-- [Advanced Rebase Interactive](./advanced-rebase-interactive/README.md)
-- [Rebase using autosquash](./rebase-interactive-autosquash/README.md)
-- [Basic Stashing](./basic-stashing/README.md)
-
-See [Overview.md](Overview.md) for a more complete list and suggested order.
-
-## Contributing
-
-If you miss exercises or find errors in any of them, feel free to improve them and make a pull request.
-
-You can also make an issue so we notice an opportunity to improve!
-
-Thank you!
+- [Challenge 2.1 Basic Commits](./basic-commits/README.md)
+- [Challenge 2.2 Basic Staging](./basic-staging/README.md)
+- [Challenge 2.3 Investigation](./investigation/README.md)
+- [Challenge 2.4 Basic Branching](./basic-branching/README.md)
+- [Challenge 2.5 Fast Forward Merge](./ff-merge/README.md)
+- [Challenge 2.6 3 way Merge](./3-way-merge/README.md)
+- [Challenge 2.7 Merge Mergesort](./merge-mergesort/README.md)
+- [Challenge 2.8 Rebase Branch](./rebase-branch/README.md)
+- [Challenge 2.9 Basic Revert](./basic-revert/README.md)
+- [Challenge 2.10 Reset](./reset/README.md)
+- [Challenge 2.11 Basic Cleaning](./basic-cleaning/README.md)
+- [Challenge 2.12 Amend](./amend/README.md)
+- [Challenge 2.13 Reorder the History](./reorder-the-history/README.md)
+- [Challenge 2.14 Advanced Rebase Interactive](./advanced-rebase-interactive/README.md)
+- [Challenge 2.15 Basic Stashing](./basic-stashing/README.md)
+- [Challenge 2.16 Ignore](./ignore/README.md)
 
 ## Cheatsheet
 
@@ -74,7 +50,7 @@ A collection of useful commands to use throughout the exercises:
 git init            # Initialize an empty git repository under current directory.
 
 # Cloning a repository
-git clone https://github.com/praqma-training/git-katas.git      # Clone this repository to your current working directory
+git clone https://github.com/franklin8705/Intro-to-GitHub.git      # Clone this repository to your current working directory
 
 # Git (user and repo level) configurations
 git config --local user.name "Repo-level Username"          # For setting a local git repo level user name.
@@ -167,8 +143,3 @@ git config --global alias.lol "log --graph --oneline --all"
 ## Using the alias
 git lol     # Does a "git log --graph --oneline --all"
 ```
-
-## Testing
-
-There is a very small test that you can run in powershell or bash.
-It is contained in the scripts `test.sh` and `test.ps1`.

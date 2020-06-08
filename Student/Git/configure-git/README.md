@@ -1,6 +1,6 @@
-# Git Kata: Configuring git
+# Git Exercise: Configuring git
 
-This kata has no `setup.sh` script. Just read and follow along.
+This exercise has no `setup.sh` script. Just read and follow along.
 
 ## 1. Git Initial Configuration
 
@@ -52,4 +52,4 @@ The public key can then be uploaded to your repo server:
 For GitHub this is a section in user settings.
 For BitBucket server this is SSH Keys under Manage Account
 
-    git clone ssh://git@github.com/praqma-training/gitkatas.git
+    git clone git@github.com:franklin8705/Intro-to-GitHub.git

@@ -17,8 +17,8 @@ config-local-username() {
     REPO_NAME=$(basename ${REPO})
 
     if [[ ! -z ${REPO_NAME} && ${REPO_NAME} == 'exercise' ]]; then
-        git config --local user.name "git-katas trainer bot"
-        git config --local user.email "git-katas@example.com"
+        git config --local user.name "OCP US git trainer bot"
+        git config --local user.email "OCP US ocp-us@example.com"
         echo "Successfully configured local username and email"
     fi
 }
@@ -41,7 +41,7 @@ clear-local-user() {
 }
 
 pre-setup () {
-    kata="$(basename $(pwd))"   # kata: name of the exercise which is respective folder name
+    kata="$(basename $(pwd))"  
     make-exercise-repo
     config-local-username
 }

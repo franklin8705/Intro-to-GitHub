@@ -10,6 +10,6 @@ git init exercise
 Set-Location .\exercise\
 
 # Set local git user name and email to distinguish commits.
-git config --local user.name "git-katas trainer bot"
-git config --local user.email "git-katas@example.com"
+git config --local user.name "OCP US trainer bot"
+git config --local user.email "us-ocp-git@example.com"
 

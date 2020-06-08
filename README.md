@@ -24,13 +24,10 @@ Repositories (often referred to as "repos")  contain many features:
  
  *(this list is a work in progress, links to be included upon completion of each challenge)*
 
- - [Challenge 0](./Student/Guides/challenge00.md) - Setup
- - [Challenge 1](./Student/Guides/challenge01.md) - Git: Introduction
- - [Challenge 2](./Student/Guides/challenge02.md) - Git Command Practice
- - [Challenge 3](./Student/Guides/challenge03.md) - How to make effective README doc
- - [Challenge 4](./Student/Guides/challenge04.md) - 
- - [Challenge 5](./Student/Guides/challenge05.md) - 
- - [Challenge 6](./Student/Guides/challenge06.md) - 
- - [Challenge 7](./Student/Guides/challenge07.md) - GitHub Repositories: Introduction
- - [Challenge 8](./Student/Guides/challenge08.md) - GitHub Project Boards: Agile Project Management
- - [Challenge 9](./Student/Guides/challenge09.md) - Git Busy!
+ - [Challenge 0](./Student/Setup.md) - Setup
+ - [Challenge 1](./Student/Git/challenge-1.md) - Git: Introduction and Terminology
+ - [Challenge 2](./Student/Guides/challenge-2.md) - Git Command Exercises
+ - [Challenge 3](./Student/Guides/challenge-3.md) - How to make effective README doc
+ - [Challenge 4](./Student/Guides/challenge-4.md) - GitHub Repositories: Introduction
+ - [Challenge 5](./Student/Guides/challenge-5.md) - GitHub Project Boards: Agile Project Management
+ - [Challenge 6](./Student/Guides/challenge-6.md) - Git Busy!
