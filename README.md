@@ -26,11 +26,11 @@ Repositories (often referred to as "repos")  contain many features:
 
  - [Challenge 0](./Student/Guides/challenge00.md) - Setup
  - [Challenge 1](./Student/Guides/challenge01.md) - Git: Introduction
- - [Challenge 2](./Student/Guides/challenge02.md) - 
- - [Challenge 3](./Student/Guides/challenge03.md) - 
+ - [Challenge 2](./Student/Guides/challenge02.md) - Git Command Practice
+ - [Challenge 3](./Student/Guides/challenge03.md) - How to make effective README doc
  - [Challenge 4](./Student/Guides/challenge04.md) - 
  - [Challenge 5](./Student/Guides/challenge05.md) - 
  - [Challenge 6](./Student/Guides/challenge06.md) - 
  - [Challenge 7](./Student/Guides/challenge07.md) - GitHub Repositories: Introduction
  - [Challenge 8](./Student/Guides/challenge08.md) - GitHub Project Boards: Agile Project Management
- - [Challenge 9](./Student/Guides/challenge09.md) - Monitoring: Generating and listening to application metrics
+ - [Challenge 9](./Student/Guides/challenge09.md) - Git Busy!
